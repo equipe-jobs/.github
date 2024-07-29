@@ -1,6 +1,6 @@
 ## Olá, somos a equipe Jobs 🚀
 
-- 🌱 Estudantes Hyperautomação em Python
+- 🌱 Estudantes de Hyperautomação em Python
   
   ##
   
