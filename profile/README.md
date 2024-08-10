@@ -3,7 +3,7 @@
 ###
 
 
-<h4 align="center">👩‍💻 Estudantes de Hyperautomação em Python</h4>
+<h4 align="center">👩‍💻 Estudantes de Hyperautomação em Python pela DX Academy</h4>
   
 ###
 
